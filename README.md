@@ -34,13 +34,4 @@ Description and details about project 1.
 Description and details about project 2.
 
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>{{ page.title }}</title>
-</head>
-<body>
-    {{ content }}
-</body>
-</html>
+theme: minima
