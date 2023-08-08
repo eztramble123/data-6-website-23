@@ -1,13 +1,9 @@
-#data-6-website-23
-
-# Welcome to My Personal Website
+# Ezra Tramble - Personal Website
 
 This is a brief introduction about myself.
 
 ## About Me
-
-I am passionate about technology and enjoy coding in my free time.
-
+UC Berkeley Class of 2027, Electrical Engineering and Computer Science
 ## Projects
 
 - [Project 1](#project-1)
