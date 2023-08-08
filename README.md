@@ -11,7 +11,7 @@ UC Berkeley Class of 2027, Electrical Engineering and Computer Science
 
 ## Contact
 
-You can reach me at [email@example.com](mailto:email@example.com).
+You can reach me at [email@example.com](mailto:eztramble@berkeley.edu).
 
 ---
 
