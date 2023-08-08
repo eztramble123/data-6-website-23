@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+#data-6-website-23
 
 # Welcome to My Personal Website
 
